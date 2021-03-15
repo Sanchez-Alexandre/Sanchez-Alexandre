@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on : 
-Survey-Bot, a French bot for making polls on Discord.
-Automate my home, I' m trying to make automations with Jeedom and Homebridge.
-A website for my high school with my friends.
+🔭 I’m currently working on : 
+- Survey-Bot, a French bot for making polls on Discord.
+- Automate my home, I' m trying to make automations with Jeedom and Homebridge.
+- A website for my high school with my friends.
 
-- 🌱 I’m currently learning :
-Javascript. NodeJS. SQL
+🌱 I’m currently learning :
+-Javascript. NodeJS. SQL
 
-- 📫 How to reach me :
-On discord. Mr.Robot#8797
+📫 How to reach me :
+-On discord. Mr.Robot#8797
 
 <!--
 **Sanchez-Alexandre/Sanchez-Alexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
