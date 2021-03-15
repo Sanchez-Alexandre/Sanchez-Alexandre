@@ -6,10 +6,10 @@
 - A website for my high school with my friends.
 
 🌱 I’m currently learning :
--Javascript. NodeJS. SQL
+- Javascript. NodeJS. SQL
 
 📫 How to reach me :
--On discord. Mr.Robot#8797
+- On discord. Mr.Robot#8797
 
 <!--
 **Sanchez-Alexandre/Sanchez-Alexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
