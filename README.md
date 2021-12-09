@@ -1,15 +1,14 @@
 ### Hi there 👋
 
 🔭 I’m currently working on : 
-- Survey-Bot, a French bot for making polls on Discord.
-- Automate my home, I' m trying to make automations with Jeedom and Homebridge.
-- A website for my high school with my friends.
+- Survey-Bot, a French bot for making surveys and polls on Discord.
+- Automate my home.
 
 🌱 I’m currently learning :
-- Javascript. NodeJS. SQL
+- Javascript. NodeJS. SQL.
 
 📫 How to reach me :
-- On discord. Mr.Robot#8797
+- Alessio#9642
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre-Sanchez&count_private=true)
 
